@@ -1,0 +1,34 @@
+body {
+  background-color: #6161ff;
+  color: #ffff;
+  font-family: Tahoma;
+  text-align: center;
+}
+a {
+  text-decoration:none;
+  border: 2px solid #ffff;
+  border-radius: 5px;
+  padding: 10px;
+  display: block;
+  color: #ffff;
+  background: #313151;
+  margin: 2px auto 20px auto;
+  max-width: 400px;
+}
+.social-icons {
+  padding: 0;
+  list-style: none;
+  margin: 1em;
+}
+.social-icons li {
+  display: inline-block;
+  margin: 0px 1px;
+  position: relative;
+  font-size: 18px;
+}
+a:hover {
+  background: #585858;
+}
+.wsp a {
+  background: #25D366;
+}
